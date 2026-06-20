@@ -1,14 +1,17 @@
-# TrenchBroom
+# NextBroom
+<!---
+commented out untill a logo is made
+[![TrenchBroom Icon](app/resources/graphics/images/AppIcon.png)](https://www.youtube.com/watch?v=shcAvnYp9ow)-->
 
-[![TrenchBroom Icon](app/resources/graphics/images/AppIcon.png)](https://www.youtube.com/watch?v=shcAvnYp9ow)
-
-TrenchBroom is a modern cross-platform level editor for Quake-engine based games.
-
-- Trailer:   https://www.youtube.com/watch?v=shcAvnYp9ow
-- Website:   https://github.com/TrenchBroom/TrenchBroom
+NextBroom is a modern cross-platform level editor for id Tech-engine based games.
+<!---
+commented out untill a these are made
+- Trailer:   https://www.youtube.com/watch?v=shcAvnYp9ow 
+- Bluesky:   https://bsky.app/profile/trenchbroom.bsky.social
 - Discord:   https://discord.gg/WGf9uve
 - Mastodon:  https://mastodon.gamedev.place/@trenchbroom
-- Bluesky:   https://bsky.app/profile/trenchbroom.bsky.social
+-->
+- Website:   https://github.com/FriskTheFallenHuman/NextBroom/
 - Video Tutorial Series:  https://www.youtube.com/playlist?list=PLgDKRPte5Y0AZ_K_PZbWbgBAEt5xf74aE
 - Manual:    https://trenchbroom.github.io/manual/latest
 
@@ -49,14 +52,14 @@ TrenchBroom is a modern cross-platform level editor for Quake-engine based games
 
 
 ## Releases
-- Binary builds are available from [releases](https://github.com/kduske/TrenchBroom/releases).
+- Binary builds are available from [releases](https://github.com/FriskTheFallenHuman/NextBroom/releases).
 
 ## Compiling
 - Read [Build.md](Build.md) for instructions
 
 # Contributing
-- Bug reports and feature suggestions are welcome. Please submit them at https://github.com/TrenchBroom/TrenchBroom/issues
-- If you wish to contribute code or improve the documentation, please get in touch with me at kristian.duske@gmail.com.
+- Bug reports and feature suggestions are welcome. Please submit them at [NextBroom/issues](https://github.com/FriskTheFallenHuman/NextBroom/issues)
+- If you wish to contribute code or improve the documentation, please make a pull request here [NextBroom/pull](https://github.com/FriskTheFallenHuman/NextBroom/pulls)
 - All help is appreciated!
 
 # Credits
@@ -76,4 +79,4 @@ TrenchBroom is a modern cross-platform level editor for Quake-engine based games
 - [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) font
 
 ## Changes
-See [releases](https://github.com/TrenchBroom/TrenchBroom/releases) for latest changes.
+See [releases](https://github.com/FriskTheFallenHuman/NextBroom/releases) for latest changes.
