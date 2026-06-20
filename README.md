@@ -1,3 +1,5 @@
+# WE HAVE MOVED TO CODEBERG [HERE](https://codeberg.org/NextBroomTeam/NextBroom) THANK YOU EVERYONE FOR THE AMAZING SUPPORT :)
+
 # NextBroom
 <!---
 commented out untill a logo is made
